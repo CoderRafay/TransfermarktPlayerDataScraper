@@ -1,0 +1,36 @@
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.exe
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+
+# macOS specific
+.DS_Store
+
+# Compiled files
+*.exe
+*.msi
+*.dll
+*.out
+*.so
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.rpyc
+*.pyc/
+__pycache__/
+.mypy_cache/
+.redshift/
+.env/
