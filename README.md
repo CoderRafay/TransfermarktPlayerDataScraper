@@ -1,6 +1,6 @@
 # Transfermarkt Player Data Scraper
 
-This Python script allows you to extract player data from the Transfermarkt website and save it as a CSV or Excel file.
+This Python script allows you to extract/scrap player data from the Transfermarkt website and save it as a CSV or Excel file.
 
 <img src="https://i.ibb.co/jGSQLMX/Screenshot-2023-07-31-193445.png" alt="Alt text" title="Transfermarkt Player Data Scraper">
 
